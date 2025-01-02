@@ -1,7 +1,7 @@
 # Capstone-Final_Project
 Designing an Automatic Data Collection and Storage System with AWS Lambda and Slack Integration for Server Availability Monitoring and Slack Notification.
 
-Problem Statement:
+**Problem Statement**:
 The task is to create an AWS Lambda function that periodically fetches data from an API and stores it in an Amazon RDS instance. The function should be triggered by an Amazon CloudWatch Event every 15 seconds, and an alert should be sent to a Slack channel if the server goes down.
 
 Technologies Used:
